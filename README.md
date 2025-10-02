@@ -38,8 +38,8 @@ and many more, including code architecture and reusability.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
-cd banking
+git clone https://github.com/AtharvaAnbhule/finance.git
+cd finance
 ```
 
 **Installation**
